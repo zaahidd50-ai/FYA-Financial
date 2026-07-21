@@ -1,0 +1,191 @@
+<!-- ================= SERVICES ================= -->
+
+<section id="services" class="py-5 bg-light">
+
+<div class="container">
+
+<div class="text-center mb-5">
+
+<h2>Our Professional Services</h2>
+
+<p class="text-muted">
+
+Helping South Africans restore their financial freedom.
+
+</p>
+
+</div>
+
+<div class="row g-4">
+
+<div class="col-md-4">
+<div class="card service-card h-100 shadow-sm border-0">
+<div class="card-body text-center">
+<i class="fas fa-file-signature fa-3x text-warning mb-3"></i>
+<h4>ITC Clearance</h4>
+<p>Professional assistance with ITC listing clearance.</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card service-card h-100 shadow-sm border-0">
+<div class="card-body text-center">
+<i class="fas fa-scale-balanced fa-3x text-warning mb-3"></i>
+<h4>Debt Review Removal</h4>
+<p>Helping qualifying clients exit debt review legally.</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card service-card h-100 shadow-sm border-0">
+<div class="card-body text-center">
+<i class="fas fa-money-check-dollar fa-3x text-warning mb-3"></i>
+<h4>Arrears Removal</h4>
+<p>Solutions to improve your financial standing.</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card service-card h-100 shadow-sm border-0">
+<div class="card-body text-center">
+<i class="fas fa-chart-line fa-3x text-warning mb-3"></i>
+<h4>Credit Profile Assistance</h4>
+<p>Improve your credit profile with professional guidance.</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card service-card h-100 shadow-sm border-0">
+<div class="card-body text-center">
+<i class="fas fa-shield-halved fa-3x text-warning mb-3"></i>
+<h4>Credit Health</h4>
+<p>Helping clients build stronger financial futures.</p>
+</div>
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="card service-card h-100 shadow-sm border-0">
+<div class="card-body text-center">
+<i class="fas fa-user-tie fa-3x text-warning mb-3"></i>
+<h4>Financial Consultation</h4>
+<p>Personalised financial guidance from experienced consultants.</p>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= WHY CHOOSE US ================= -->
+
+<section class="py-5 bg-dark text-white">
+
+<div class="container">
+
+<div class="text-center mb-5">
+
+<h2 class="text-warning">Why Choose FYA Financial?</h2>
+
+</div>
+
+<div class="row">
+
+<div class="col-md-3 text-center mb-4">
+<i class="fas fa-award fa-3x text-warning mb-3"></i>
+<h5>Professional Service</h5>
+<p>Experienced consultants dedicated to your success.</p>
+</div>
+
+<div class="col-md-3 text-center mb-4">
+<i class="fas fa-clock fa-3x text-warning mb-3"></i>
+<h5>Fast Turnaround</h5>
+<p>Quick responses and efficient processing.</p>
+</div>
+
+<div class="col-md-3 text-center mb-4">
+<i class="fas fa-lock fa-3x text-warning mb-3"></i>
+<h5>100% Confidential</h5>
+<p>Your information is secure and protected.</p>
+</div>
+
+<div class="col-md-3 text-center mb-4">
+<i class="fas fa-headset fa-3x text-warning mb-3"></i>
+<h5>Dedicated Support</h5>
+<p>Friendly assistance throughout your journey.</p>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= STATS ================= -->
+
+<section class="py-5">
+
+<div class="container">
+
+<div class="row text-center">
+
+<div class="col-md-3 mb-4">
+<h2 class="display-4 text-warning">1000+</h2>
+<p>Happy Clients</p>
+</div>
+
+<div class="col-md-3 mb-4">
+<h2 class="display-4 text-warning">98%</h2>
+<p>Success Rate</p>
+</div>
+
+<div class="col-md-3 mb-4">
+<h2 class="display-4 text-warning">10+</h2>
+<p>Years Experience</p>
+</div>
+
+<div class="col-md-3 mb-4">
+<h2 class="display-4 text-warning">24/7</h2>
+<p>Customer Support</p>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ================= CALL TO ACTION ================= -->
+
+<section class="py-5 bg-warning text-dark">
+
+<div class="container text-center">
+
+<h2>Ready To Improve Your Financial Future?</h2>
+
+<p class="lead">
+
+Speak to one of our consultants today.
+
+</p>
+
+<a href="https://wa.me/27607818440"
+
+class="btn btn-dark btn-lg">
+
+<i class="fab fa-whatsapp"></i>
+
+Chat On WhatsApp
+
+</a>
+
+</div>
+
+</section>
