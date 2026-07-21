@@ -1,0 +1,247 @@
+/* ===============================
+   FYA Financial Premium Style
+================================== */
+
+:root{
+    --gold:#D4AF37;
+    --black:#111111;
+    --white:#ffffff;
+    --light:#f8f9fa;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    color:#333;
+    overflow-x:hidden;
+}
+
+/* ================= NAVBAR ================= */
+
+.navbar{
+    background:rgba(17,17,17,.95);
+    transition:.3s;
+    padding:15px 0;
+}
+
+.navbar-brand{
+    font-size:30px;
+    font-family:'Playfair Display',serif;
+}
+
+.gold{
+    color:var(--gold);
+}
+
+.nav-link{
+    color:#fff !important;
+    margin-left:20px;
+    font-weight:500;
+}
+
+.nav-link:hover{
+    color:var(--gold)!important;
+}
+
+.btn-warning{
+    background:var(--gold);
+    border:none;
+    color:#111;
+    font-weight:600;
+}
+
+.btn-warning:hover{
+    background:#b99628;
+    color:#fff;
+}
+
+/* ================= HERO ================= */
+
+.hero{
+    background:url("../images/hero.jpg") center center/cover no-repeat;
+    height:100vh;
+    position:relative;
+}
+
+.overlay{
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,.70);
+    display:flex;
+    align-items:center;
+}
+
+.hero h1{
+    color:white;
+    font-size:65px;
+    font-family:'Playfair Display',serif;
+    margin-bottom:20px;
+}
+
+.hero p{
+    color:white;
+    font-size:22px;
+    margin-bottom:35px;
+    max-width:650px;
+}
+
+/* ================= HEADINGS ================= */
+
+section h2{
+    font-family:'Playfair Display',serif;
+    font-size:45px;
+    margin-bottom:20px;
+}
+
+/* ================= SERVICES ================= */
+
+.service-card{
+    transition:.4s;
+    border-radius:18px;
+}
+
+.service-card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 20px 40px rgba(0,0,0,.15)!important;
+}
+
+.service-card i{
+    color:var(--gold);
+}
+
+/* ================= WHY US ================= */
+
+.bg-dark{
+    background:#111!important;
+}
+
+/* ================= STATS ================= */
+
+.display-4{
+    font-weight:bold;
+}
+
+/* ================= CONTACT ================= */
+
+.form-control{
+    border-radius:10px;
+    padding:15px;
+}
+
+.form-control:focus{
+    border-color:var(--gold);
+    box-shadow:0 0 8px rgba(212,175,55,.4);
+}
+
+/* ================= FOOTER ================= */
+
+footer{
+    background:#000;
+}
+
+footer h4{
+    color:var(--gold);
+}
+
+/* ================= WHATSAPP ================= */
+
+.whatsapp-float{
+
+position:fixed;
+
+right:25px;
+
+bottom:25px;
+
+width:65px;
+
+height:65px;
+
+background:#25D366;
+
+border-radius:50%;
+
+display:flex;
+
+align-items:center;
+
+justify-content:center;
+
+color:white;
+
+font-size:34px;
+
+text-decoration:none;
+
+box-shadow:0 10px 30px rgba(0,0,0,.3);
+
+z-index:999;
+
+transition:.3s;
+
+}
+
+.whatsapp-float:hover{
+
+transform:scale(1.1);
+
+color:white;
+
+}
+
+/* ================= IMAGES ================= */
+
+img{
+    max-width:100%;
+}
+
+.rounded{
+    border-radius:20px!important;
+}
+
+/* ================= MOBILE ================= */
+
+@media(max-width:992px){
+
+.hero{
+height:auto;
+padding:140px 0 80px;
+}
+
+.hero h1{
+font-size:45px;
+}
+
+.hero p{
+font-size:18px;
+}
+
+section h2{
+font-size:35px;
+}
+
+.navbar-brand{
+font-size:24px;
+}
+
+}
+
+@media(max-width:576px){
+
+.hero h1{
+font-size:34px;
+}
+
+.hero p{
+font-size:16px;
+}
+
+.btn-lg{
+width:100%;
+margin-bottom:15px;
+}
+
+}
